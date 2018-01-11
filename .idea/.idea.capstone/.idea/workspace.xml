@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs" line="165" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs" line="128" mnemonic="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f63b496c-f70f-4313-bc4b-f03809c6e0eb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.capstone/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.capstone/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.capstone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.capstone/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/MeshCombineWizard.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/MeshCombineWizard.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Puzzle/PuzzleSequencer.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Puzzle/PuzzleSequencer.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Materials.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Materials/SkyBox.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Materials/SkyBox.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Preview.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Preview.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Scripts.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Scripts/CameraOrbit.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Scripts/CameraOrbit.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Scripts/PulseEmission.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Scripts/PulseEmission.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_back.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_back.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_down.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_down.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_front.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_front.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_left.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_right.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_right.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Examples/Textures/Red_Overlapping_Point_Stars_01_up.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Materials.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Materials/Gravity_generator.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Materials/Gravity_generator.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes/Gravity_generator_LoD_0.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes/Gravity_generator_LoD_0.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes/Gravity_generator_LoD_1.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes/Gravity_generator_LoD_1.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes/Gravity_generator_LoD_2.fbx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Meshes/Gravity_generator_LoD_2.fbx.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Prefabs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Prefabs/Gravity_generator.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Prefabs/Gravity_generator.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_albedo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_albedo.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_ao.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_ao.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_emission.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_emission.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_metallic.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_metallic.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_normal.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/CoolWorks/Gravity Generator/Textures/Gravity_generator_LoD_0_normal.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Final.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Final.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Intro.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Intro.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Puzzle.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Puzzle.unity" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FinaleSequencer.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="146" column="39" lean-forward="false" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="39" />
+              <folding>
+                <marker date="1514891924742" expanded="false" signature="6:130" ph="..." />
+                <marker date="1514891924742" expanded="true" signature="177:5913" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1028:1095" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1120:1179" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1204:1302" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1327:1425" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1450:1712" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1502:1706" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1643:1700" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1780:1902" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1945:2633" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="1966:2629" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="2671:2997" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="3034:3623" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="3228:3265" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="3654:3904" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="3704:3869" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="3945:4521" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="4306:4515" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="4559:4898" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="4798:4892" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="4933:5161" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="4969:5157" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="5040:5107" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="5195:5806" ph="{...}" />
+                <marker date="1514891924742" expanded="true" signature="5836:5911" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabidCelebrate.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Final/RabidCelebrate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <marker date="1514891625616" expanded="false" signature="6:78" ph="..." />
+                <marker date="1514891625616" expanded="true" signature="123:495" ph="{...}" />
+                <marker date="1514891625616" expanded="true" signature="293:493" ph="{...}" />
+                <marker date="1514891625616" expanded="true" signature="432:489" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabidTrigger.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+              <folding>
+                <marker date="1514890424564" expanded="false" signature="6:78" ph="..." />
+                <marker date="1514890424564" expanded="true" signature="121:3761" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="693:1094" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1123:1180" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1310:1954" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1453:1797" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1493:1791" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1694:1783" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1834:1950" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="1983:2280" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="2347:2459" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="2508:2721" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="2572:2717" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="2772:3759" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="2918:3755" ph="{...}" />
+                <marker date="1514890424564" expanded="true" signature="3052:3241" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PuzzleSequencer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Puzzle/PuzzleSequencer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="73" column="14" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+              <folding>
+                <marker date="1514888682143" expanded="false" signature="6:44" ph="..." />
+                <marker date="1514888682143" expanded="true" signature="91:3210" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="741:784" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="821:1012" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="947:1006" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="1055:1742" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="1076:1738" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="1772:1851" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="1891:2099" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2018:2093" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2130:2514" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2193:2508" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2314:2500" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2545:2844" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2660:2838" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="2874:3208" ph="{...}" />
+                <marker date="1514888682143" expanded="true" signature="3024:3202" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Animator.StringToHash(&quot;open&quot;)</find>
+      <find>GetComponentsInChildren&lt;Light&gt;()</find>
+      <find>Throwable</find>
+      <find>copyComponents</find>
+      <find>GrabHighlight</find>
+      <find>Deb</find>
+      <find>barrelInactive</find>
+      <find>revive</find>
+      <find>Idle</find>
+      <find>projectorPosition.transform</find>
+      <find>GetComponent&lt;Rigidbody&gt;();</find>
+      <find>T</find>
+      <find>Debug</find>
+      <find>Notify</find>
+      <find>aim</find>
+      <find>warriorController</find>
+      <find>EscapeDo</find>
+      <find>Animator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>projectorLocation</replace>
+      <replace>GameObject</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidWave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MaterialSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intro/RabidReviveController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Final/WarriorShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR_Ears.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Final/WarriorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorOpener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/2a/a7d29c64/Mathf.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/93/afbb71b3/Rigidbody.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/93/aa088cf2/Vector3.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/b4/93ac6f8f/Object.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayOnSpace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR_Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/c9/46211193/GameObject.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/00/8fc3d631/Transform.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Notification/InOutNotify.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutoLockDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR_TrackedObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/39/1d726d92/MonoBehaviour.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/b2/4f98f4a0/Time.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intro/IntroSequencer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Final/RabidCelebrate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/21/fa256397/NavMesh.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/1b/f6067901/Component.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidNavigator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/b4/7962afa9/PhraseRecognizer.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control/HandsInputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/9b/3f409657/LineRenderer.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E305EDD-3CCB-4D57-A152-462A7A1E3C46/82/07cef873/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Puzzle/PathCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Plugins/openvr_api.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Puzzle/PuzzleSequencer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/fa/48c18eef/Random.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Puzzle/Breakable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Imported/RabidAssaultMech/Scripts/MechMoveContoller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/4b/02a26b8e/Playable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/0c/f8318011/Physics.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/TestNavigation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACA5A92C-578B-4550-940A-DA0E8D8A8D7A/47/e4e41090/Quaternion.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/HandController.cs" />
+        <option value="$PROJECT_DIR$/Assets/HandsInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Highlighter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HandController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HandsInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MeshCombineWizard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VideoRabidDeactivator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MaterialSwitcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/RabidPartController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestNavigation.cs" />
+        <option value="$PROJECT_DIR$/Assets/RabidNavigator.cs" />
+        <option value="$PROJECT_DIR$/Assets/RabidReviveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intro/RabidReviveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneLoadOnTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intro/IntroSequencer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Breakable.cs" />
+        <option value="$PROJECT_DIR$/Assets/CantGrab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Breakable.cs" />
+        <option value="$PROJECT_DIR$/Assets/INotify.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/INotify.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NotifyReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/PuzzleSequencer.cs" />
+        <option value="$PROJECT_DIR$/Assets/PathCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RabidNavigator.cs" />
+        <option value="$PROJECT_DIR$/Assets/RabidTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rabid/IPoolable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rabid/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Puzzle/Breakable.cs" />
+        <option value="$PROJECT_DIR$/Assets/RocketController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Puzzle/PathCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyOnRandomTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/NotifyOnEnable.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveBreakable.cs" />
+        <option value="$PROJECT_DIR$/Assets/KillBreakable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DoorOpener.cs" />
+        <option value="$PROJECT_DIR$/Assets/FinaleSequencer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Control/HandsInputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/InOutNotify.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoLockDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/RabidWave.cs" />
+        <option value="$PROJECT_DIR$/Assets/WarriorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Final/WarriorShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/RobotBreakable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Final/WarriorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rabid/RabidNavigator.cs" />
+        <option value="$PROJECT_DIR$/Assets/RabidCelebrate.cs" />
+        <option value="$PROJECT_DIR$/Assets/TitleScreenController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Puzzle/PuzzleSequencer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Final/RabidCelebrate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="117" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="capstone (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f63b496c-f70f-4313-bc4b-f03809c6e0eb" name="Default" comment="" />
+      <created>1513445390402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513445390402</updated>
+      <workItem from="1513445393840" duration="1241000" />
+      <workItem from="1513586054607" duration="2453000" />
+      <workItem from="1513592695173" duration="86000" />
+      <workItem from="1513764713570" duration="2190000" />
+      <workItem from="1513938292798" duration="5355000" />
+      <workItem from="1514048580765" duration="438000" />
+      <workItem from="1514049039050" duration="8918000" />
+      <workItem from="1514064979939" duration="4259000" />
+      <workItem from="1514113801044" duration="12020000" />
+      <workItem from="1514199045429" duration="1722000" />
+      <workItem from="1514275701248" duration="11177000" />
+      <workItem from="1514288844032" duration="2990000" />
+      <workItem from="1514293718780" duration="968000" />
+      <workItem from="1514378843334" duration="6605000" />
+      <workItem from="1514480044786" duration="7000000" />
+      <workItem from="1514535413857" duration="23149000" />
+      <workItem from="1514653388313" duration="1924000" />
+      <workItem from="1514716130492" duration="393000" />
+      <workItem from="1514716544901" duration="8903000" />
+      <workItem from="1514737025743" duration="9196000" />
+      <workItem from="1514814829602" duration="1459000" />
+      <workItem from="1514832489656" duration="765000" />
+      <workItem from="1514833295431" duration="620000" />
+      <workItem from="1514888036313" duration="4049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117880000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19166666" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1921875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="78" column="83" lean-forward="false" selection-start-line="78" selection-start-column="83" selection-end-line="78" selection-end-column="83" />
+          <folding>
+            <marker date="1514891924742" expanded="false" signature="6:130" ph="..." />
+            <marker date="1514891924742" expanded="true" signature="177:5913" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1028:1095" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1120:1179" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1204:1302" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1327:1425" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1450:1712" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1502:1706" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1643:1700" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1780:1902" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1945:2633" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1966:2629" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="2671:2997" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3034:3623" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3228:3265" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3654:3904" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3704:3869" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3945:4521" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4306:4515" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4559:4898" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4798:4892" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4933:5161" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4969:5157" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5040:5107" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5195:5806" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5836:5911" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <marker date="1514890424564" expanded="false" signature="6:78" ph="..." />
+            <marker date="1514890424564" expanded="true" signature="121:3761" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="693:1094" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1123:1180" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1310:1954" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1453:1797" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1493:1791" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1694:1783" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1834:1950" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1983:2280" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2347:2459" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2508:2721" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2572:2717" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2772:3759" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2918:3755" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="3052:3241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="78" column="83" lean-forward="false" selection-start-line="78" selection-start-column="83" selection-end-line="78" selection-end-column="83" />
+          <folding>
+            <marker date="1514891924742" expanded="false" signature="6:130" ph="..." />
+            <marker date="1514891924742" expanded="true" signature="177:5913" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1028:1095" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1120:1179" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1204:1302" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1327:1425" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1450:1712" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1502:1706" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1643:1700" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1780:1902" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1945:2633" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1966:2629" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="2671:2997" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3034:3623" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3228:3265" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3654:3904" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3704:3869" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3945:4521" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4306:4515" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4559:4898" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4798:4892" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4933:5161" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4969:5157" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5040:5107" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5195:5806" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5836:5911" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR_Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="88" lean-forward="false" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="18" lean-forward="false" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <marker date="1514890424564" expanded="false" signature="6:78" ph="..." />
+            <marker date="1514890424564" expanded="true" signature="121:3761" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="693:1094" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1123:1180" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1310:1954" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1453:1797" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1493:1791" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1694:1783" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1834:1950" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1983:2280" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2347:2459" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2508:2721" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2572:2717" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2772:3759" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2918:3755" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="3052:3241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Plugins/openvr_api.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="3542" column="2" lean-forward="false" selection-start-line="3542" selection-start-column="2" selection-end-line="3542" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR_Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="141" column="23" lean-forward="false" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Plugins/SteamVR/Scripts/SteamVR_TrackedObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Puzzle/PuzzleSequencer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="73" column="14" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding>
+            <marker date="1514888682143" expanded="false" signature="6:44" ph="..." />
+            <marker date="1514888682143" expanded="true" signature="91:3210" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="741:784" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="821:1012" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="947:1006" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="1055:1742" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="1076:1738" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="1772:1851" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="1891:2099" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2018:2093" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2130:2514" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2193:2508" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2314:2500" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2545:2844" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2660:2838" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="2874:3208" ph="{...}" />
+            <marker date="1514888682143" expanded="true" signature="3024:3202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Rabid/RabidTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="69" column="9" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+          <folding>
+            <marker date="1514890424564" expanded="false" signature="6:78" ph="..." />
+            <marker date="1514890424564" expanded="true" signature="121:3761" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="693:1094" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1123:1180" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1310:1954" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1453:1797" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1493:1791" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1694:1783" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1834:1950" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="1983:2280" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2347:2459" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2508:2721" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2572:2717" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2772:3759" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="2918:3755" ph="{...}" />
+            <marker date="1514890424564" expanded="true" signature="3052:3241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Final/RabidCelebrate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1514891625616" expanded="false" signature="6:78" ph="..." />
+            <marker date="1514891625616" expanded="true" signature="123:495" ph="{...}" />
+            <marker date="1514891625616" expanded="true" signature="293:493" ph="{...}" />
+            <marker date="1514891625616" expanded="true" signature="432:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Final/FinaleSequencer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="146" column="39" lean-forward="false" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="39" />
+          <folding>
+            <marker date="1514891924742" expanded="false" signature="6:130" ph="..." />
+            <marker date="1514891924742" expanded="true" signature="177:5913" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1028:1095" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1120:1179" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1204:1302" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1327:1425" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1450:1712" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1502:1706" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1643:1700" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1780:1902" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1945:2633" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="1966:2629" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="2671:2997" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3034:3623" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3228:3265" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3654:3904" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3704:3869" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="3945:4521" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4306:4515" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4559:4898" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4798:4892" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4933:5161" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="4969:5157" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5040:5107" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5195:5806" ph="{...}" />
+            <marker date="1514891924742" expanded="true" signature="5836:5911" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,2437 @@
+fileFormatVersion: 2
+guid: 45fc273992edc03428c4506e6220c0a9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LeftBackToe01
+    100004: LeftBigToe01
+    100006: LeftBigToe02
+    100008: LeftFoot01
+    100010: LeftLegSection01
+    100012: LeftLegSection02
+    100014: LeftLegSection03
+    100016: LeftLegSection04
+    100018: MechHull01
+    100020: RightBackToe01
+    100022: RightBigToe01
+    100024: RightBigToe02
+    100026: RightFoot01
+    100028: RightLegSection01
+    100030: RightLegSection02
+    100032: RightLegSection03
+    100034: RightLegSection04
+    100036: LeftCannon01
+    100038: RightCannon01
+    100040: IK Chain001
+    100042: IK Chain002
+    100044: IK Chain003
+    100046: IK Chain004
+    100048: IK Chain005
+    100050: IK Chain006
+    100052: LeftBackFootAnimHelper01
+    100054: LeftBackToeBone01
+    100056: LeftBackToeBone02
+    100058: LeftBackToeBone03
+    100060: LeftBone01
+    100062: LeftBone02
+    100064: LeftBone03
+    100066: LeftBone04
+    100068: LeftBone05
+    100070: LeftBone06
+    100072: LeftBone07
+    100074: LeftBone08
+    100076: LeftFrontFootAnimHelper01
+    100078: LeftLegAnimHelper01
+    100080: RightBackFootAnimHelper01
+    100082: RightBackToeBone01
+    100084: RightBackToeBone02
+    100086: RightBackToeBone03
+    100088: RightBone01
+    100090: RightBone02
+    100092: RightBone03
+    100094: RightBone04
+    100096: RightBone05
+    100098: RightBone06
+    100100: RightBone07
+    100102: RightBone08
+    100104: RightFrontFootAnimHelper001
+    100106: RightLegAnimHelper
+    100108: LeftLegAnimHelper
+    100110: LeftWingBottom
+    100112: LeftWingMiddle
+    100114: LeftWingTop
+    100116: MechBodyCenter
+    100118: MechFrame
+    100120: RightBackToe002
+    100122: RightBackToeBone004
+    100124: RightBackToeBone005
+    100126: RightBackToeBone006
+    100128: RightBigToe003
+    100130: RightBigToe004
+    100132: RightBone009
+    100134: RightBone010
+    100136: RightBone011
+    100138: RightBone012
+    100140: RightBone013
+    100142: RightBone014
+    100144: RightBone015
+    100146: RightBone016
+    100148: RightCannon002
+    100150: RightFoot002
+    100152: RightLegSection005
+    100154: RightLegSection006
+    100156: RightLegSection007
+    100158: RightLegSection008
+    100160: RightWingBottom
+    100162: RightWingMiddle
+    100164: RightWingTop
+    100166: LeftBarrelLrgBottom
+    100168: LeftBarrelLrgTop
+    100170: LeftBarrelSmlBottom
+    100172: LeftBarrelSmlTop
+    100174: LeftCannon
+    100176: RightBarrelLrgBottom
+    100178: RightBarrelLrgTop
+    100180: RightBarrelSmlBottom
+    100182: RightBarrelSmlTop
+    400000: //RootNode
+    400002: LeftBackToe01
+    400004: LeftBigToe01
+    400006: LeftBigToe02
+    400008: LeftFoot01
+    400010: LeftLegSection01
+    400012: LeftLegSection02
+    400014: LeftLegSection03
+    400016: LeftLegSection04
+    400018: MechHull01
+    400020: RightBackToe01
+    400022: RightBigToe01
+    400024: RightBigToe02
+    400026: RightFoot01
+    400028: RightLegSection01
+    400030: RightLegSection02
+    400032: RightLegSection03
+    400034: RightLegSection04
+    400036: LeftCannon01
+    400038: RightCannon01
+    400040: IK Chain001
+    400042: IK Chain002
+    400044: IK Chain003
+    400046: IK Chain004
+    400048: IK Chain005
+    400050: IK Chain006
+    400052: LeftBackFootAnimHelper01
+    400054: LeftBackToeBone01
+    400056: LeftBackToeBone02
+    400058: LeftBackToeBone03
+    400060: LeftBone01
+    400062: LeftBone02
+    400064: LeftBone03
+    400066: LeftBone04
+    400068: LeftBone05
+    400070: LeftBone06
+    400072: LeftBone07
+    400074: LeftBone08
+    400076: LeftFrontFootAnimHelper01
+    400078: LeftLegAnimHelper01
+    400080: RightBackFootAnimHelper01
+    400082: RightBackToeBone01
+    400084: RightBackToeBone02
+    400086: RightBackToeBone03
+    400088: RightBone01
+    400090: RightBone02
+    400092: RightBone03
+    400094: RightBone04
+    400096: RightBone05
+    400098: RightBone06
+    400100: RightBone07
+    400102: RightBone08
+    400104: RightFrontFootAnimHelper001
+    400106: RightLegAnimHelper
+    400108: LeftLegAnimHelper
+    400110: LeftWingBottom
+    400112: LeftWingMiddle
+    400114: LeftWingTop
+    400116: MechBodyCenter
+    400118: MechFrame
+    400120: RightBackToe002
+    400122: RightBackToeBone004
+    400124: RightBackToeBone005
+    400126: RightBackToeBone006
+    400128: RightBigToe003
+    400130: RightBigToe004
+    400132: RightBone009
+    400134: RightBone010
+    400136: RightBone011
+    400138: RightBone012
+    400140: RightBone013
+    400142: RightBone014
+    400144: RightBone015
+    400146: RightBone016
+    400148: RightCannon002
+    400150: RightFoot002
+    400152: RightLegSection005
+    400154: RightLegSection006
+    400156: RightLegSection007
+    400158: RightLegSection008
+    400160: RightWingBottom
+    400162: RightWingMiddle
+    400164: RightWingTop
+    400166: LeftBarrelLrgBottom
+    400168: LeftBarrelLrgTop
+    400170: LeftBarrelSmlBottom
+    400172: LeftBarrelSmlTop
+    400174: LeftCannon
+    400176: RightBarrelLrgBottom
+    400178: RightBarrelLrgTop
+    400180: RightBarrelSmlBottom
+    400182: RightBarrelSmlTop
+    2300000: LeftBackToe01
+    2300002: LeftBigToe01
+    2300004: LeftBigToe02
+    2300006: LeftFoot01
+    2300008: LeftLegSection01
+    2300010: LeftLegSection02
+    2300012: LeftLegSection03
+    2300014: LeftLegSection04
+    2300016: MechHull01
+    2300018: RightBackToe01
+    2300020: RightBigToe01
+    2300022: RightBigToe02
+    2300024: RightFoot01
+    2300026: RightLegSection01
+    2300028: RightLegSection02
+    2300030: RightLegSection03
+    2300032: RightLegSection04
+    2300034: LeftCannon01
+    2300036: RightCannon01
+    2300038: LeftWingBottom
+    2300040: LeftWingMiddle
+    2300042: LeftWingTop
+    2300044: MechFrame
+    2300046: RightBackToe002
+    2300048: RightBigToe003
+    2300050: RightBigToe004
+    2300052: RightCannon002
+    2300054: RightFoot002
+    2300056: RightLegSection005
+    2300058: RightLegSection006
+    2300060: RightLegSection007
+    2300062: RightLegSection008
+    2300064: RightWingBottom
+    2300066: RightWingMiddle
+    2300068: RightWingTop
+    2300070: LeftBarrelLrgBottom
+    2300072: LeftBarrelLrgTop
+    2300074: LeftBarrelSmlBottom
+    2300076: LeftBarrelSmlTop
+    2300078: LeftCannon
+    2300080: RightBarrelLrgBottom
+    2300082: RightBarrelLrgTop
+    2300084: RightBarrelSmlBottom
+    2300086: RightBarrelSmlTop
+    3300000: LeftBackToe01
+    3300002: LeftBigToe01
+    3300004: LeftBigToe02
+    3300006: LeftFoot01
+    3300008: LeftLegSection01
+    3300010: LeftLegSection02
+    3300012: LeftLegSection03
+    3300014: LeftLegSection04
+    3300016: MechHull01
+    3300018: RightBackToe01
+    3300020: RightBigToe01
+    3300022: RightBigToe02
+    3300024: RightFoot01
+    3300026: RightLegSection01
+    3300028: RightLegSection02
+    3300030: RightLegSection03
+    3300032: RightLegSection04
+    3300034: LeftCannon01
+    3300036: RightCannon01
+    3300038: LeftWingBottom
+    3300040: LeftWingMiddle
+    3300042: LeftWingTop
+    3300044: MechFrame
+    3300046: RightBackToe002
+    3300048: RightBigToe003
+    3300050: RightBigToe004
+    3300052: RightCannon002
+    3300054: RightFoot002
+    3300056: RightLegSection005
+    3300058: RightLegSection006
+    3300060: RightLegSection007
+    3300062: RightLegSection008
+    3300064: RightWingBottom
+    3300066: RightWingMiddle
+    3300068: RightWingTop
+    3300070: LeftBarrelLrgBottom
+    3300072: LeftBarrelLrgTop
+    3300074: LeftBarrelSmlBottom
+    3300076: LeftBarrelSmlTop
+    3300078: LeftCannon
+    3300080: RightBarrelLrgBottom
+    3300082: RightBarrelLrgTop
+    3300084: RightBarrelSmlBottom
+    3300086: RightBarrelSmlTop
+    4300000: MechHull01
+    4300002: RightLegSection01
+    4300004: RightLegSection02
+    4300006: RightLegSection03
+    4300008: RightLegSection04
+    4300010: RightFoot01
+    4300012: RightBigToe01
+    4300014: RightBackToe01
+    4300016: RightBigToe02
+    4300018: LeftLegSection01
+    4300020: LeftLegSection02
+    4300022: LeftLegSection03
+    4300024: LeftLegSection04
+    4300026: LeftFoot01
+    4300028: LeftBigToe01
+    4300030: LeftBackToe01
+    4300032: LeftBigToe02
+    4300034: RightCannon01
+    4300036: LeftCannon01
+    4300038: RightBigToe003
+    4300040: RightBigToe004
+    4300042: RightFoot002
+    4300044: RightBackToe002
+    4300046: RightLegSection005
+    4300048: RightLegSection006
+    4300050: RightLegSection007
+    4300052: RightLegSection008
+    4300054: MechFrame
+    4300056: RightCannon002
+    4300058: RightWingTop
+    4300060: RightWingMiddle
+    4300062: RightWingBottom
+    4300064: LeftWingTop
+    4300066: LeftWingMiddle
+    4300068: LeftWingBottom
+    4300070: RightBarrelLrgTop
+    4300072: RightBarrelSmlTop
+    4300074: RightBarrelSmlBottom
+    4300076: RightBarrelLrgBottom
+    4300078: LeftCannon
+    4300080: LeftBarrelSmlBottom
+    4300082: LeftBarrelLrgTop
+    4300084: LeftBarrelLrgBottom
+    4300086: LeftBarrelSmlTop
+    7400000: Idle
+    7400002: Walk
+    7400004: WalkBackward
+    7400006: StrafeRight
+    7400008: StrafeLeft
+    7400010: TurnLeft
+    7400012: TurnRight
+    7400014: HitFromFront
+    7400016: HitFromBack
+    7400018: DieBackward
+    7400020: DieForward
+    7400022: Attack
+    7400024: Jump
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mech01Material
+    second: {fileID: 2100000, guid: b20d5338150040f479c4a18164643216, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 0
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 0
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 0
+      - path: MechBodyCenter/MechFrame
+        weight: 0
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 0
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 0
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 0
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: RightFoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5054945
+        functionName: LeftFoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBackward
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeRight
+      takeName: Take 001
+      firstFrame: 95
+      lastFrame: 125
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: StrafeLeft
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 160
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurnLeft
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.49175835
+        functionName: LeftFoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: RightFoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurnRight
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.50301206
+        functionName: RightFoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.0054945946
+        functionName: LeftFoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HitFromFront
+      takeName: Take 001
+      firstFrame: 330
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HitFromBack
+      takeName: Take 001
+      firstFrame: 370
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DieBackward
+      takeName: Take 001
+      firstFrame: 410
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DieForward
+      takeName: Take 001
+      firstFrame: 460
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 510
+      lastFrame: 540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MechBodyCenter
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/LeftLegAnimHelper/IK Chain004
+        weight: 1
+      - path: MechBodyCenter/MechFrame
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftCannon/LeftBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/LeftWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelLrgTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightCannon01/RightBarrelSmlTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingBottom
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingMiddle
+        weight: 1
+      - path: MechBodyCenter/MechFrame/MechHull01/RightWingTop
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBackToeBone01/RightBackToeBone02/RightBackToeBone03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBigToe01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBigToe02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightBone06/RightBone07/RightBone08
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightBone05/RightFoot01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightBone04/RightLegSection04
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightBone03/RightLegSection03
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightBone02/RightLegSection02
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone01/RightLegSection01
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToe002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBackToeBone004/RightBackToeBone005/RightBackToeBone006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBigToe004
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBigToe003
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightBone014/RightBone015/RightBone016
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightBone013/RightFoot002
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightBone012/RightLegSection005
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightBone011/RightLegSection006
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightBone010/RightLegSection007
+        weight: 1
+      - path: MechBodyCenter/MechFrame/RightBone009/RightLegSection008
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper
+        weight: 1
+      - path: MechBodyCenter/RightLegAnimHelper/IK Chain003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: MechBodyCenter
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

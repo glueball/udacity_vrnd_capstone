@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e98da4c9-b4cd-499c-bc04-a4bb601c3f0b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.vrnd-capstone/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.vrnd-capstone/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.vrnd-capstone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.vrnd-capstone/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Menus.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Resources.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Resources/cm_logo_sm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Resources/cm_logo_sm.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/BaseEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/BaseEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows/AboutWindow.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows/AboutWindow.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/AxisState.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/AxisState.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CameraState.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CameraState.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineCore.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineCore.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/GaussianFilter.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/GaussianFilter.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/LensSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/LensSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/NoiseSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/NoiseSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/Predictor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/Predictor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/SplineHelpers.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/SplineHelpers.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/CINEMACHINE_install.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/CINEMACHINE_install.pdf.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/CinemachineAPI.chm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/CinemachineAPI.chm.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/CinemachineExamples.unitypackage.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Gizmos.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Gizmos/Cinemachine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/LICENSE.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/CinemachinePostFX.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/CinemachinePostFX.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/CinemachinePostProcessing.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/CinemachinePostProcessing.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/PostFXAutoImport.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/PostFXAutoImport.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/Resources.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/Resources/PostProcessLayer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/PostFX/Editor/Resources/PostProcessLayer.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_normal_extreme.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_normal_extreme.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_normal_mild.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_normal_mild.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_normal_strong.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_normal_strong.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_tele_mild.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_tele_mild.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_tele_strong.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_tele_strong.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_wideangle_mild.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_wideangle_mild.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_wideangle_strong.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Handheld_wideangle_strong.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Vibration.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Presets/Noise/Vibration.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/ReleaseNotes.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/ReleaseNotes.txt.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/CinemachineMixer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/CinemachineMixer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/CinemachineShot.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/CinemachineShot.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/CinemachineTrack.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/CinemachineTrack.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Cinemachine/Timeline/LegacyTimelineAPI.unitypackage.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Dummy_animation/Model/DummyAnim.fbx.meta" afterPath="$PROJECT_DIR$/Assets/_Imported/Dummy_animation/Model/DummyAnim.fbx.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Gizmos.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Gizmos/Cinemachine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Gizmos/Cinemachine/cm_logo_lg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Gizmos/Cinemachine/cm_logo_lg.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/PopupAsylum/PA_SciFiCombatants/_Imported3D/Characters/PA_Warrior.fbx.meta" afterPath="$PROJECT_DIR$/Assets/_Imported/PopupAsylum/PA_SciFiCombatants/_Imported3D/Characters/PA_Warrior.fbx.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/PopupAsylum/PA_SciFiCombatants/_Imported3D/Vehicles/PA_ArchfireTank.fbx.meta" afterPath="$PROJECT_DIR$/Assets/_Imported/PopupAsylum/PA_SciFiCombatants/_Imported3D/Vehicles/PA_ArchfireTank.fbx.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Editor/ResonaiMeshDetailsInspectorProxy.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Editor/ResonaiMeshDetailsInspectorProxy.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/Billboard.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/Billboard.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/EmptySkin.guiskin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/EmptySkin.guiskin.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/LoginSuccessPage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/LoginSuccessPage.html.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ModelSpinner.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ModelSpinner.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ModelSpinner.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ModelSpinner.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/PreviewBox.prefab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/PreviewBox.prefab.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/PreviewObject.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/PreviewObject.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ResonaiIcon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ResonaiIcon.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/TempSpinner.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/TempSpinner.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/Transparent.mat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/Transparent.mat.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/Transparent.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/Transparent.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/borderBlue.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/borderBlue.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_error_outline_black_36dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_error_outline_black_36dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_grade_black_18dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_grade_black_18dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_grade_white_18dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_grade_white_18dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_keyboard_arrow_left_black_36dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_keyboard_arrow_left_black_36dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_keyboard_arrow_right_black_36dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_keyboard_arrow_right_black_36dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_message_black_36dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_message_black_36dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_power_settings_new_black_36dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_power_settings_new_black_36dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_settings_black_36dp.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/ic_settings_black_36dp.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/resonai.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/resonai.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/settings-red-36.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/InternalResources/settings-red-36.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Plugins.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Plugins/Google.Protobuf.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Plugins/Google.Protobuf.dll.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/README.txt.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/ResonaiAssetsReference.asset" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/ResonaiAssetsReference.asset.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/ResonaiEditorEnvironment.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/ResonaiEditorEnvironment.dll.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Scripts.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Scripts/HideGameObject.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Scripts/HideGameObject.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Scripts/ResonaiMeshDetails.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Resonai/Scripts/ResonaiMeshDetails.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/BaseFCRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/BaseFCRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/Editor/EXRRecorderSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/Editor/EXRRecorderSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/Editor/RecorderEditorBase.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/Editor/RecorderEditorBase.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/Editor/GIFRecorderSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/Editor/GIFRecorderSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/Editor/Mp4RecorderSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/Editor/Mp4RecorderSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4Recorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4Recorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4RecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4RecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/Editor/PngRecorderSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/Editor/PngRecorderSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/Editor/WEBMRecorderSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/Editor/WEBMRecorderSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioEncoderConfigDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioEncoderConfigDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioRecorderEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioRecorderEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/GBufferRecorderEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/GBufferRecorderEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/BoolDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/BoolDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/DataPathDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/DataPathDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieEncoderConfigDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieEncoderConfigDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieRecorderEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieRecorderEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/RecorderBaseEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/RecorderBaseEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86/fccore.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86/fccore.dll.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Contents.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Contents/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Contents/Info.plist.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Contents/MacOS.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Contents/MacOS/fccore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.bundle/Contents/MacOS/fccore.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore.dll.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/AudioRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/AudioRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/AudioEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/AudioEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/EncoderBase.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/EncoderBase.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/ExrEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/ExrEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/FlacEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/FlacEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/GifEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/GifEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MP4Encoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MP4Encoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MovieEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MovieEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/OggEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/OggEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/PngEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/PngEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WaveEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WaveEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WebMEncoder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WebMEncoder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/fcAPI.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/fcAPI.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/GBufferRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/GBufferRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/Bool.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/Bool.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/DataPath.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/DataPath.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/MovieRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/MovieRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/RecorderBase.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/RecorderBase.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/License.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Extensions/UTJ/License.txt.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/AboutBox.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/AboutBox.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/EnumHelper.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/EnumHelper.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/FileNameDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/FileNameDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/InputEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/InputEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/OutputPathDrawer.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/OutputPathDrawer.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RTInputSelector.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RTInputSelector.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderSelector.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderSelector.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindow.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindow.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindowSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindowSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/SerializableObjHelper.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/SerializableObjHelper.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/Timeline.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/Timeline/RecorderClipEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Editor/Timeline/RecorderClipEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/BaseRenderTextureInput.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/BaseRenderTextureInput.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FileNameGenerator.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FileNameGenerator.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FrameRateHelper.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FrameRateHelper.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FrameRecorderAttribute.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FrameRecorderAttribute.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FrameRecorderGOControler.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/FrameRecorderGOControler.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/GenericRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/GenericRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/ImageRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/ImageRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/InputSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/InputSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/OutputPath.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/OutputPath.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Recorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Recorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderComponent.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderComponent.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderInput.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderInput.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderVersion.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecorderVersion.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecordersInventory.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecordersInventory.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecordingSession.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/RecordingSession.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderClip.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderClip.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderPlayableBehaviour.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderPlayableBehaviour.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderTrack.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderTrack.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/WaitForEndOfFrameComponent.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/WaitForEndOfFrameComponent.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/UnityHelpers.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Core/Engine/UnityHelpers.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Editor/AdamBeautySourceEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Editor/AdamBeautySourceEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Engine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Engine/AdamBeautyInput.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Engine/AdamBeautyInput.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Engine/AdamBeautyInputSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Engine/AdamBeautyInputSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders/BS4Accumulate.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders/BS4Accumulate.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders/BS4Normalize.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders/BS4Normalize.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders/BS4SuperShader.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/Adam/Shaders/BS4SuperShader.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Editor/CBRenderTextureInputSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Editor/CBRenderTextureInputSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInput.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInput.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInputSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInputSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/GameViewSize.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/GameViewSize.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Shaders.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Shaders/CopyFrameBuffer.shader" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Shaders/CopyFrameBuffer.shader.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Editor/RenderTextureInputSettingsEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Editor/RenderTextureInputSettingsEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInput.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInput.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInputSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInputSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Editor/FRPackagerPaths.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Editor/FRPackagerPaths.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Private.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Private/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Private/Editor/FRPackager.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Packager/Private/Editor/FRPackager.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Editor.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Editor/ImageRecorderEditor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Editor/ImageRecorderEditor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorder.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorder.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorderSettings.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorderSettings.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/license" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Framework/license.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Recorder_install.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Imported/Unity Technologies/Recorder/Recorder_install.pdf.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Test.unity" afterPath="$PROJECT_DIR$/Assets/_Scenes/Test.unity" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="InstaDeath.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstaDeath.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <marker date="1513171466733" expanded="true" signature="6:92" ph="..." />
+                <marker date="1513171466733" expanded="true" signature="133:282" ph="{...}" />
+                <marker date="1513171466733" expanded="true" signature="197:280" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaterialSwitcher.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/MaterialSwitcher.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <marker date="1513182390593" expanded="false" signature="6:78" ph="..." />
+                <marker date="1513182390593" expanded="true" signature="125:314" ph="{...}" />
+                <marker date="1513182390593" expanded="true" signature="204:312" ph="{...}" />
+                <marker date="1513182390593" expanded="true" signature="267:308" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Animator.StringToHash(&quot;open&quot;)</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstaDeath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MaterialSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/DoorOpener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstaDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/MaterialSwitcher.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1860" />
+    <option name="y" value="76" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="vrnd-capstone (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e98da4c9-b4cd-499c-bc04-a4bb601c3f0b" name="Default" comment="" />
+      <created>1513009470474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513009470474</updated>
+      <workItem from="1513009474066" duration="749000" />
+      <workItem from="1513094057494" duration="20000" />
+      <workItem from="1513171183285" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2330000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/_Imported/Resonai/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/DoorOpener.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/DoorOpener.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Imported/Resonai/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstaDeath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1513171466733" expanded="true" signature="6:92" ph="..." />
+            <marker date="1513171466733" expanded="true" signature="133:282" ph="{...}" />
+            <marker date="1513171466733" expanded="true" signature="197:280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MaterialSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1513182390593" expanded="false" signature="6:78" ph="..." />
+            <marker date="1513182390593" expanded="true" signature="125:314" ph="{...}" />
+            <marker date="1513182390593" expanded="true" signature="204:312" ph="{...}" />
+            <marker date="1513182390593" expanded="true" signature="267:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
